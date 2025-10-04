@@ -1,0 +1,30 @@
+.col{
+    text-align: left;
+    color: white;
+    margin-top:13%;
+}
+.colro{
+      border-radius: 5px 0 0 5px;
+}
+.colre{
+     border-radius: 0 5px  5px 0;
+}
+.sedan-card{
+    background-color: #E28525;
+}
+.suv-card{
+     background-color: 	#016972;
+}
+.luxury-card{
+     background-color:  #00403F;
+}
+
+body {
+  font-family: "Lexend Deca", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 50;
+  font-style: normal;
+}
+.padding{
+    padding: 10% 10% 10% 10%;
+}
